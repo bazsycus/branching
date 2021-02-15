@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\bin\Debug\3_Elagazsok.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\bin\Debug\3_Elagazsok.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\bin\Debug\3_Elagazsok.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\obj\Debug\3_Elagazsok.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\obj\Debug\_3_Elagazsok.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\obj\Debug\_3_Elagazsok.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\obj\Debug\3_Elagazsok.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\obj\Debug\3_Elagazsok.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\obj\Debug\3_Elagazsok.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\3_Elagazsok\3_Elagazsok\obj\Debug\3_Elagazsok.pdb
